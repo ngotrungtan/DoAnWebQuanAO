@@ -1,0 +1,697 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18D283A6-B357-45DC-B332-2F2EA322AD34}|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao|c:\\users\\ngotr\\onedrive\\documents\\visual studio 2022\\doancuoicung\\web ban quan ao\\web ban quan ao\\source code\\website\\website\\shopquanao\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D283A6-B357-45DC-B332-2F2EA322AD34}|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao|c:\\users\\ngotr\\onedrive\\documents\\visual studio 2022\\doancuoicung\\web ban quan ao\\web ban quan ao\\source code\\website\\website\\shopquanao\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D283A6-B357-45DC-B332-2F2EA322AD34}|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao|c:\\users\\ngotr\\onedrive\\documents\\visual studio 2022\\doancuoicung\\web ban quan ao\\web ban quan ao\\source code\\website\\website\\shopquanao\\app_code\\database\\sqldatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D283A6-B357-45DC-B332-2F2EA322AD34}|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao|c:\\users\\ngotr\\onedrive\\documents\\visual studio 2022\\doancuoicung\\web ban quan ao\\web ban quan ao\\source code\\website\\website\\shopquanao\\app_code\\database\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D283A6-B357-45DC-B332-2F2EA322AD34}|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao|c:\\users\\ngotr\\onedrive\\documents\\visual studio 2022\\doancuoicung\\web ban quan ao\\web ban quan ao\\source code\\website\\website\\shopquanao\\cms\\admin\\khachhang\\khachhang_hienthi.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D283A6-B357-45DC-B332-2F2EA322AD34}|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao|c:\\users\\ngotr\\onedrive\\documents\\visual studio 2022\\doancuoicung\\web ban quan ao\\web ban quan ao\\source code\\website\\website\\shopquanao\\cms\\admin\\khachhang\\khachhang_hienthi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D283A6-B357-45DC-B332-2F2EA322AD34}|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao|c:\\users\\ngotr\\onedrive\\documents\\visual studio 2022\\doancuoicung\\web ban quan ao\\web ban quan ao\\source code\\website\\website\\shopquanao\\cms\\admin\\dondathang\\dondathang_hienthi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D283A6-B357-45DC-B332-2F2EA322AD34}|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao|c:\\users\\ngotr\\onedrive\\documents\\visual studio 2022\\doancuoicung\\web ban quan ao\\web ban quan ao\\source code\\website\\website\\shopquanao\\cms\\admin\\taikhoan\\taikhoan_hienthi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D283A6-B357-45DC-B332-2F2EA322AD34}|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao|c:\\users\\ngotr\\onedrive\\documents\\visual studio 2022\\doancuoicung\\web ban quan ao\\web ban quan ao\\source code\\website\\website\\shopquanao\\cms\\admin\\sanpham\\sanphamloadcontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D283A6-B357-45DC-B332-2F2EA322AD34}|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao|c:\\users\\ngotr\\onedrive\\documents\\visual studio 2022\\doancuoicung\\web ban quan ao\\web ban quan ao\\source code\\website\\website\\shopquanao\\cms\\admin\\adminloadcontrol.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D283A6-B357-45DC-B332-2F2EA322AD34}|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao|c:\\users\\ngotr\\onedrive\\documents\\visual studio 2022\\doancuoicung\\web ban quan ao\\web ban quan ao\\source code\\website\\website\\shopquanao\\cms\\admin\\sanpham\\sanphamloadcontrol.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18D283A6-B357-45DC-B332-2F2EA322AD34}|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao|c:\\users\\ngotr\\onedrive\\documents\\visual studio 2022\\doancuoicung\\web ban quan ao\\web ban quan ao\\source code\\website\\website\\shopquanao\\global.asax||{4D30FDB3-AB3E-4810-B6F2-64627BCCA384}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TaiKhoan\\TaiKhoan_ThemMoi.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\MaHoaPass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\KhachHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPham_HienThi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\SQLDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TinTuc\\DanhSachTinTuc\\DanhSachTinTuc_ThemMoi.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPham_ThemMoi.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPham_ThemMoi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TinTuc\\DanhSachTinTuc\\DanhSachTinTuc_ThemMoi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPhamLoadControl.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPhamLoadControl.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\DangKy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\ChiTietDonDatHang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TaiKhoan\\TaiKhoan_HienThi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\display\\TrangChu\\TrangChuLoadControl.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\AdminLoadControl.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHangLoadControl.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHangLoadControl.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx",
+              "RelativeDocumentMoniker": "..\\shopquanao\\Admin.aspx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx",
+              "RelativeToolTip": "..\\shopquanao\\Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T07:21:06.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhachHang_HienThi.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx.cs",
+              "RelativeDocumentMoniker": "..\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx.cs",
+              "RelativeToolTip": "..\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T06:11:27.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SanPhamLoadControl.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\SanPhamLoadControl.ascx",
+              "RelativeDocumentMoniker": "..\\shopquanao\\cms\\admin\\SanPham\\SanPhamLoadControl.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\SanPhamLoadControl.ascx",
+              "RelativeToolTip": "..\\shopquanao\\cms\\admin\\SanPham\\SanPhamLoadControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-10T07:21:14.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx",
+              "RelativeDocumentMoniker": "..\\shopquanao\\Default.aspx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx",
+              "RelativeToolTip": "..\\shopquanao\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T06:08:54.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\KhachHang.cs",
+              "RelativeDocumentMoniker": "..\\shopquanao\\App_Code\\Database\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\KhachHang.cs",
+              "RelativeToolTip": "..\\shopquanao\\App_Code\\Database\\KhachHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:41:48.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\SQLDatabase.cs",
+              "RelativeDocumentMoniker": "..\\shopquanao\\App_Code\\Database\\SQLDatabase.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\SQLDatabase.cs",
+              "RelativeToolTip": "..\\shopquanao\\App_Code\\Database\\SQLDatabase.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:51:00.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KhachHang_HienThi.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx",
+              "RelativeDocumentMoniker": "..\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx",
+              "RelativeToolTip": "..\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-10T06:11:55.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SanPhamLoadControl.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\SanPhamLoadControl.ascx.cs",
+              "RelativeDocumentMoniker": "..\\shopquanao\\cms\\admin\\SanPham\\SanPhamLoadControl.ascx.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\SanPhamLoadControl.ascx.cs",
+              "RelativeToolTip": "..\\shopquanao\\cms\\admin\\SanPham\\SanPhamLoadControl.ascx.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:22:37.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DonDatHang_HienThi.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx",
+              "RelativeDocumentMoniker": "..\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx",
+              "RelativeToolTip": "..\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-10T12:43:21.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaiKhoan_HienThi.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TaiKhoan\\TaiKhoan_HienThi.ascx",
+              "RelativeDocumentMoniker": "..\\shopquanao\\cms\\admin\\TaiKhoan\\TaiKhoan_HienThi.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TaiKhoan\\TaiKhoan_HienThi.ascx",
+              "RelativeToolTip": "..\\shopquanao\\cms\\admin\\TaiKhoan\\TaiKhoan_HienThi.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-10T06:11:06.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminLoadControl.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\AdminLoadControl.ascx",
+              "RelativeDocumentMoniker": "..\\shopquanao\\cms\\admin\\AdminLoadControl.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\AdminLoadControl.ascx",
+              "RelativeToolTip": "..\\shopquanao\\cms\\admin\\AdminLoadControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-10T07:27:23.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Global.asax",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Global.asax",
+              "RelativeDocumentMoniker": "..\\shopquanao\\Global.asax",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\DOANCUOICUNG\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Global.asax",
+              "RelativeToolTip": "..\\shopquanao\\Global.asax",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000179|",
+              "WhenOpened": "2024-06-10T06:08:50.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:24:09.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DonDatHang_HienThi.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-08T13:12:44.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DonDatHangLoadControl.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-08T13:12:47.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx",
+              "ToolTip": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T13:10:08.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DonDatHangLoadControl.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx.cs",
+              "ToolTip": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:20:13.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "KhachHang_HienThi.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx.cs",
+              "ToolTip": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:17:23.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "KhachHang_HienThi.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHang_HienThi.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-08T13:14:30.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "KhachHangLoadControl.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHangLoadControl.ascx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHangLoadControl.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHangLoadControl.ascx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHangLoadControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-08T13:12:54.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "KhachHangLoadControl.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHangLoadControl.ascx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHangLoadControl.ascx.cs",
+              "ToolTip": "C:\\Users\\ngotr\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHangLoadControl.ascx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\Downloads\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\KhachHang\\KhachHangLoadControl.ascx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T13:13:13.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaiKhoan_ThemMoi.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TaiKhoan\\TaiKhoan_ThemMoi.ascx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TaiKhoan\\TaiKhoan_ThemMoi.ascx.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TaiKhoan\\TaiKhoan_ThemMoi.ascx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TaiKhoan\\TaiKhoan_ThemMoi.ascx.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAwwFAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:49:49.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MaHoaPass.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\MaHoaPass.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\MaHoaPass.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\MaHoaPass.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\MaHoaPass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:48:29.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T12:46:58.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-08T10:17:06.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Admin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Admin.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:21:04.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\KhachHang.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\KhachHang.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\KhachHang.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwBgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:48:39.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SanPham_HienThi.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPham_HienThi.ascx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPham_HienThi.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPham_HienThi.ascx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPham_HienThi.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-08T11:59:51.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SQLDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\SQLDatabase.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\SQLDatabase.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\SQLDatabase.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\SQLDatabase.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAewDEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:14:44.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DanhSachTinTuc_ThemMoi.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TinTuc\\DanhSachTinTuc\\DanhSachTinTuc_ThemMoi.ascx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TinTuc\\DanhSachTinTuc\\DanhSachTinTuc_ThemMoi.ascx.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TinTuc\\DanhSachTinTuc\\DanhSachTinTuc_ThemMoi.ascx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TinTuc\\DanhSachTinTuc\\DanhSachTinTuc_ThemMoi.ascx.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwDkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:02:57.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SanPham_ThemMoi.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPham_ThemMoi.ascx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPham_ThemMoi.ascx.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPham_ThemMoi.ascx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPham_ThemMoi.ascx.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:00:19.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SanPham_ThemMoi.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPham_ThemMoi.ascx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPham_ThemMoi.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPham_ThemMoi.ascx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPham_ThemMoi.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-08T11:59:57.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DanhSachTinTuc_ThemMoi.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TinTuc\\DanhSachTinTuc\\DanhSachTinTuc_ThemMoi.ascx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TinTuc\\DanhSachTinTuc\\DanhSachTinTuc_ThemMoi.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TinTuc\\DanhSachTinTuc\\DanhSachTinTuc_ThemMoi.ascx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TinTuc\\DanhSachTinTuc\\DanhSachTinTuc_ThemMoi.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-08T12:02:55.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SanPhamLoadControl.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPhamLoadControl.ascx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPhamLoadControl.ascx.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPhamLoadControl.ascx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPhamLoadControl.ascx.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T12:00:08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SanPhamLoadControl.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPhamLoadControl.ascx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPhamLoadControl.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPhamLoadControl.ascx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\SanPham\\QuanLySanPham\\SanPhamLoadControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-08T12:00:05.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DonDatHangLoadControl.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T11:34:16.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\DangKy.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\DangKy.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\DangKy.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\DangKy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T11:38:44.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DonDatHangLoadControl.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHangLoadControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-08T11:52:07.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ChiTietDonDatHang.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\ChiTietDonDatHang.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\ChiTietDonDatHang.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\ChiTietDonDatHang.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\App_Code\\Database\\ChiTietDonDatHang.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T11:32:41.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\Default.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvx4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:26:37.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TaiKhoan_HienThi.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TaiKhoan\\TaiKhoan_HienThi.ascx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TaiKhoan\\TaiKhoan_HienThi.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TaiKhoan\\TaiKhoan_HienThi.ascx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\TaiKhoan\\TaiKhoan_HienThi.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-08T11:42:32.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DonDatHang_HienThi.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T11:34:02.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DonDatHang_HienThi.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\DonDatHang\\DonDatHang_HienThi.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-08T11:33:58.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TrangChuLoadControl.ascx",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\display\\TrangChu\\TrangChuLoadControl.ascx",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\display\\TrangChu\\TrangChuLoadControl.ascx",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\display\\TrangChu\\TrangChuLoadControl.ascx",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\display\\TrangChu\\TrangChuLoadControl.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-06-08T08:54:38.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminLoadControl.ascx.cs",
+              "DocumentMoniker": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\AdminLoadControl.ascx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\AdminLoadControl.ascx.cs",
+              "ToolTip": "C:\\Users\\ngotr\\OneDrive\\Documents\\Visual Studio 2022\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\AdminLoadControl.ascx.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Web ban quan ao\\Web ban quan ao\\Web ban quan ao\\Source code\\Website\\Website\\shopquanao\\cms\\admin\\AdminLoadControl.ascx.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAjwBYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:28:48.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
